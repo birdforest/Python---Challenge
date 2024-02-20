@@ -1,9 +1,9 @@
-# Python---Challenge
-PyBank &amp; PyPoll
+- # Python---Challenge
+- PyBank &amp; PyPoll
 
-PyBank Challenge:
+- PyBank Challenge:
 
-The total number of months included in the dataset: Methodology used is to iterate the loop by row to sum up the number of months. Using similar concept as Challenge 2 (counter = counter + 1).
+- The total number of months included in the dataset: Methodology used is to iterate the loop by row to sum up the number of months. Using similar concept as Challenge 2 (counter = counter + 1).
 The net total amount of "Porfit/Losses" over the entire period: Methodology used is similar to that of calculating the total of months. Instead of adding "1" for every iteration, the net total amount considers the actual values.
 The changes in "Profit/Losses" over the entire period, and then the average of those changes: Methodology used is summing up all monthly changes and divided by the number of monthly changes. I came up with the logic but used Stack Overflow to find the decimal function. The question asked on Stack Overflow is "Limiting floats to two decimal points".
 The greatest increase in profits (date and amount) over the entire period: Metholodgy used is to calculate the change from month-to-month and update the list with larger change and its respective month. Stack Overflow mentions that the "else" statement is not necessary if it makes sense to the code. The question asked on Stack Overflow is "Is an else statement always needed".
